@@ -73,6 +73,8 @@ Before analysis, Power Query was used to:
 - Standardize column names  
 - Apply initial filters and basic transformations  
 <img width="446" height="382" alt="Screenshot 2025-07-23 102118" src="https://github.com/user-attachments/assets/bc1a6478-20a8-46a9-ab79-d20f69588f35" />
+
+---
 <img width="416" height="460" alt="Screenshot 2025-07-23 102139" src="https://github.com/user-attachments/assets/cf8bbaea-aa58-45ba-a345-e6a2344b35bd" />
 
 ---
